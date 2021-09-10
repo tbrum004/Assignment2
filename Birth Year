@@ -1,0 +1,2 @@
+def tellBirthYear(self,currentYears):
+        print("Your birth date is, " + (currentYears - self.age))
